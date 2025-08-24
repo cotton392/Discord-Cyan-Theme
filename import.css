@@ -1810,7 +1810,7 @@
   overflow: visible !important;
 }
 .folderGroup__48112.isExpanded__48112 .folderGroupBackground__48112 {
-  left: calc(var(--cyan-spacing) * 2) !important;
+  left: calc(var(--cyan-spacing) * 2.9) !important;
   height: 100%;
   width: calc(var(--cyan-spacing) * 14);
   --tw-translate-z: calc(var(--cyan-spacing) * 0);
